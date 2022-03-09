@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component name="markuplistexample" extends="Scene">
+  <children>
+    <RowList id="myList" itemComponentName="listItemComponent" showRowLabel="[ true ]" itemSize="[ 1608, 308 ]" rowItemSize="[ [250, 500], [500, 600], [800, 500] ]" rowItemSpacing="[ [100, 300] ]" itemSpacing="[100, 300]" drawFocusFeedback="true" numrows="3" translation="[80,80]" vertFocusAnimationStyle="floatingFocusWrap" rowFocsuAnimationStyle="floatingFocus" />
+
+  </children>
+  <script type="text/brightscript" uri="pkg:/components/markuplistexample.brs" />
+</component>

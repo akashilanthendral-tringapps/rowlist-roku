@@ -1,0 +1,13 @@
+<component name="listFields" extends="ContentNode">
+   <interface>
+       <field id="movieName" type="String" />
+       <field id="movieDesc" type="String" />
+       <field id="avengers_poster" type="String" />
+       <field id="unfocusedButton" type="String"/>
+       <field id="focusedButton" type="String"/>
+       <field id="isFocused" type="boolean"/>
+       <field id="width" type="String"/> 
+       <field id="height" type="String"/> 
+   </interface>
+    
+</component>
